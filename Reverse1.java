@@ -10,10 +10,16 @@ public class Reverse
     x=s.nextInt();
     y=s.nextInt();           
     while(x!=y)
+    {
+	    for(int z=y;z>=x;z--)
+	    {
        	if(x%2==0)
 	   {
 	     System.out.println(x+"");
-          break;
+          
      	}
-}
+	    }
+	    break;
+    }
+    }
 }
