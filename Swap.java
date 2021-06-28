@@ -1,3 +1,4 @@
+//program on swapping of two numbers without third variable
 import java.io.*;
   class Swap
 {
@@ -10,3 +11,5 @@ a=a-b;
 System.out.println("After swapping----->" +a+b);
 }
 }
+//output
+//After swapping----->9 5
