@@ -13,3 +13,5 @@ System.out.println ("Biggest number---"+x);
 System.out.println("Biggest number ---"+y);
 }
 }
+//output
+//Biggest number---5 
