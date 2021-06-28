@@ -3,10 +3,10 @@ import java.util.*;
 public class Vowel
 {
 	public static void main(String[] code) {
-	 char inp;
+	 char us;
 	 System.out.println("Enter a letter");
 	 Scanner s = new Scanner(System.in);
-	 inp = s.next().charAt(0);
+	 us = s.next().charAt(0);
 	 switch(inp)
 	 {
 	     case 'a':
@@ -26,3 +26,7 @@ public class Vowel
 	 }
 	}
 }
+//output
+//Enter a letter
+// b
+// given letter is Consonant
