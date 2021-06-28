@@ -18,4 +18,7 @@ public static void main (String[] lp)
            }
 }
 }
-
+//output
+//Enter year
+//1969
+//Not a leap year
