@@ -1,8 +1,8 @@
 import java.io.*;
-import java.util.*:
-Class Leap
+import java.util.*;
+class Leap
 {
-public static void main (String[] lp)
+public static void main (String[] args)
 {
           int y;
               System.out.println("Enter year");
