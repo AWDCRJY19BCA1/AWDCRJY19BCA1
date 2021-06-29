@@ -31,3 +31,6 @@ public class Integer {
         System.out.println(""+rev);}
              }
 }
+//output
+//-123
+//-321
